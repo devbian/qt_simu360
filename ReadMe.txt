@@ -1,0 +1,1 @@
+根据 http://www.cnblogs.com/appsucc/archive/2012/03/14/2395657.html 这篇文章来写的。里面的大部分代码也是用的这个作者的。
