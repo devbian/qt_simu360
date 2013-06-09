@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>images/frame.jpg</file>
+        <file>images/1.png</file>
+        <file>images/2.png</file>
+        <file>images/3.png</file>
+        <file>images/4.png</file>
+        <file>images/5.png</file>
+        <file>images/6.png</file>
+        <file>images/7.png</file>
+        <file>images/8.png</file>
+        <file>images/9.png</file>
+        <file>images/logo.png</file>
+        <file>images/360AboutLogo.png</file>
+        <file>images/SkinButtom.png</file>
+        <file>images/sys_button_close.png</file>
+        <file>images/sys_button_max.png</file>
+        <file>images/sys_button_min.png</file>
+        <file>images/sys_button_restore.png</file>
+        <file>images/title_bar_menu.png</file>
+    </qresource>
+</RCC>
